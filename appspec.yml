@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /project1.war
     destination: /usr/local/apache-tomcat-8.5.8/webapps/
 hooks:
   BeforeInstall:
