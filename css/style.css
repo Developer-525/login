@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #F3F2F1;
+}
+
+a {
+	color: #9F1009;
+}
+
+#main {
+	width: 900px;
+	margin-left: auto;
+	margin-top: auto;
+	margin-right: auto;
+}
+
+#login {
+	border-radius: 15px 50px 30px 5px;
+	background: #FFF;
+	margin-top: 20%;
+	margin-left: 28%;
+	width: 400px;
+	color: #930000;
+	opacity: 0.70;
+}
+
+.button_login {
+	width: 200px;
+	height: 35px;
+	background-color: #063;
+	border-radius: 30px 30px 30px 30px;
+	color: #FFF;
+	font-weight: bold;
+	margin-bottom:25px;
+}
+
+.textbox {
+	width: 240px;
+	height: 38px;
+	font-size: 16px;
+	padding: 5px 5px 5px 10px;
+}
+
+.icon {
+	margin: 10px;
+	vertical-align: middle;
+	text-align: left;
+}
